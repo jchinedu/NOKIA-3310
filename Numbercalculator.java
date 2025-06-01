@@ -3,7 +3,8 @@ public class Numbercalculator{
  public static void main(String[] args) {
 	String continueOperation;
 Scanner input = new Scanner(System.in);
-	System.out.println("""
+do {	
+System.out.println("""
 =================================================================
 CHOOSE THE OPERATION YOU WANT TO PERFORM ON THIS APP OR 0 TO EXIT
 =================================================================
