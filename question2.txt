@@ -1,0 +1,13 @@
+ you are required to build a console based atm system this system should allow user to 
+1. enter their account balance at the start
+2. withdraw money, following strict banking rules
+	withdrawals must be multiples of 500 or 1000 only
+	a fixed withdrawal charge of 100 naira applies to every transaction
+	users cannot withdraw more than 90% of their total balance at once
+	the remaining balance nust always be 100 naira or more after withdrawal
+3. display ACCOUNT DETAILS EACH TRANSACTION
+ show the amount withdrawn withdrawal fee and remaining balance
+ if withdrawal conditons are not met, prompt the user to enter a valid amount
+4. allow multiple withrawals until the user chooses to exit
+5. user should be able to log and see their transaction in python
+make it a function 

@@ -1,0 +1,13 @@
+Action	                           Initial State	Operation	Expected Result
+Turn bike on	                     Bike is off	turn_on()	Bike is on
+Turn bike off	                     Bike is on	        turn_off()	Bike is off
+Accelerate in gear 1            speed = 15, gear = 1	accelerate()	speed = 16, gear = 1
+Accelerate and change to gear 2	speed = 20, gear = 1	accelerate()	speed = 21, gear = 2
+Accelerate in gear 2	        speed = 24, gear = 2	accelerate()	speed = 26, gear = 2
+Accelerate to gear 4	        speed = 40, gear = 3	accelerate()	speed = 43, gear = 4
+Decelerate in gear 4	        speed = 44, gear = 4	decelerate()	speed = 40, gear = 3
+Decelerate in gear 3	        speed = 35, gear = 3	decelerate()	speed = 32, gear = 3
+Decelerate and drop to gear 2	speed = 31, gear = 3	decelerate()	speed = 28, gear = 2
+Decelerate to stop	        speed = 1, gear = 1	decelerate()	speed = 0, gear = 1
+Accelerate when bike is off	Bike is off, speed = 10	accelerate()	speed = 10 (no change), gear = 1
+

@@ -1,0 +1,11 @@
+you are to write a program which have a collection of questions like questionnaire and user answer those question with options
+give the user two trials in each question they failed to answer correctly
+the collection of the questions are ten in size
+each question have about four options from option A-D
+the user is to put in the questions they want from 1 to 10
+the question should be shuffled meaning not coming in the same format always 
+their result after the question should display their scores and also the ones they miss display the correct answers and the question
+the program should have the question ready
+if the user decides to answer 5 question, the program should mark the user out of the total number of question they answered before they quit
+a command line quiz game with 10 preloaded multiple choice question, user select by choosing numbers 1-10, each number can only be used once per session, questions are shuffled internally each round the user has two chances to answer correctly if he fails a question number, the question number becomes unavailable after the questions show the number of correct question, number of missed question and show the missed question with their correct answers after the session they have an option to restart the game when a user choose a question that have been answered, use an array to display the number of questions remaining do this in java use functions and most basic syntax
+

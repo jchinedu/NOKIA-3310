@@ -1,0 +1,50 @@
+import java.util.LocalDate;
+import java.util.Scanner;
+import java.time.format.DateTimeParseException 
+public class MenstralCycleApp{
+public static getUserInput(  
+
+Map<String, String> userMap = new HashMap<String, Object>();
+{
+	"name": "Tim",
+	"startDateOfLastFlow": "<LocalDateTime>",
+	"possibleFlowDuration": "<int>",
+	"durationBetweenFlows": "<int>"
+}
+
+String startDate = map.get("startDateOfLastFlow");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

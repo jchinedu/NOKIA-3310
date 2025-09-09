@@ -1,0 +1,41 @@
+semicolon employee payroll: financial application
+write a program that reads the following information and store them, then prints the pay roll statement
+1. employees name(e.g baby oku with beards)
+number of hours work in a week(e.g 10)
+hourly pay rate (e.g 9.75)
+federal tax withholding rate(e.g 20%)
+state tax withholding rate(e.g 9%)
+
+welcome to semicolon employees payroll
+====================================
+1. add employee payroll
+2. view employees payroll
+3. update employee payroll
+4. exit
+====================================
+enter input (1-4):1
+enter employee name: baby oku
+enter number of hours worked in a week: 10
+if the hours entere is higher than 40 hours accumulated, throw an error
+enter hourly pay rate: 9.75
+enter federal tax withholding rate: 20
+enter state tax withholding rate: 9
+do you wish to continue or to go back?
+if i continue, i can input same name twic it has to show name already exist
+
+employee payroll added
+enter input(1-4): 1
+enter employee name: baby oku
+baby oku already exist
+enter(1-4): 2
+ employee name: baby oku
+hours worked: 10
+pay rate: $9.75
+gross pay: $97.5
+deduction 
+federal withholding(20.0%): $19.5
+state withholding(9.0%): $ 17.55
+total deduction: $56.55
+net pay: $138.45
+enter input(1-4): 3
+you can edit everyother thing but not the name, if the name does not exist you can say the name does not exist

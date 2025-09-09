@@ -6,8 +6,10 @@ for(int i = 0; i < number.length; i++){
    total +=number[i];
 
 
-System.out.print(total);
 }
+System.out.print(total);
+number[2] = 15;
+for
 
 
 
