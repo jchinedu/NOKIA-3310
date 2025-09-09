@@ -7,4 +7,7 @@ StringBuilder word = new StringBuilder();
       char c = original.charAt(i);
 	 if (c == ' ') {
       
+        result.append(word.reverse());
        
+  
+    
