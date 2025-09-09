@@ -4,6 +4,7 @@ StringBuilder result = new StringBuilder();
 StringBuilder word = new StringBuilder();
 
     for (int i = 0; i < original.length(); i++) {
-      
-    
+      char c = original.charAt(i);
+
+     
     
