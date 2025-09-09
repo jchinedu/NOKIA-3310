@@ -8,6 +8,6 @@ StringBuilder word = new StringBuilder();
 	 if (c == ' ') {
       
         result.append(word.reverse());
-       
-  
+        word.setLength(0);
+        
     
