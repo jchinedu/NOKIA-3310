@@ -14,6 +14,10 @@ StringBuilder word = new StringBuilder();
         word.append(c);
       }
 }
+ result.append(word.reverse());
+
+  
+    
 
 
    
