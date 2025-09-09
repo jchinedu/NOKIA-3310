@@ -11,8 +11,7 @@ StringBuilder word = new StringBuilder();
         word.setLength(0);
 	result.append(c); 
 	 } else {
-       
-     
-  
+        word.append(c);
+      
         
     
