@@ -12,6 +12,7 @@ StringBuilder word = new StringBuilder();
 	result.append(c); 
 	 } else {
         word.append(c);
-      
+      }
+    
         
     
