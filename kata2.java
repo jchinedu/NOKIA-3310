@@ -10,6 +10,8 @@ StringBuilder word = new StringBuilder();
         result.append(word.reverse());
         word.setLength(0);
 	result.append(c); 
+	 } else {
+       
      
   
         
