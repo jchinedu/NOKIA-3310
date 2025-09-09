@@ -16,7 +16,8 @@ StringBuilder word = new StringBuilder();
 }
  result.append(word.reverse());
 
-  
+    return result.toString();
+ 
     
 
 
