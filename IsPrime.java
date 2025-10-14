@@ -9,4 +9,5 @@ public class isPrime {
         return false;
     }
  }
-    
+    return true;
+      
