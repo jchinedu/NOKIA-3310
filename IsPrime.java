@@ -8,4 +8,5 @@ public class isPrime {
       if(num % i ==0){
         return false;
     }
+ }
     
