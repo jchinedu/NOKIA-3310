@@ -6,4 +6,5 @@ public class isPrime {
     
     for(int i = 3; i*i <= num; i+=2){
       if(num % i ==0){
-      
+        return false;
+     
