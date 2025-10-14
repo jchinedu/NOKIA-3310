@@ -11,4 +11,6 @@ public class isPrime {
  }
     return true;
        }
-    
+         
+  
+}
