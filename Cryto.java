@@ -23,7 +23,9 @@ int temp = digits[0];
  temp = digits[1];
 digits[1] = digits[3];
 digits[3] = temp;
-
+ System.out.print("Encrypted number: ");
+        
+        
    
        
        
