@@ -26,7 +26,8 @@ digits[3] = temp;
  System.out.print("Encrypted number: ");
 for (int d : digits) {
 System.out.print(d);
-            
+ }
+       
         
         
    
