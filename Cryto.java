@@ -22,8 +22,10 @@ int temp = digits[0];
  digits[2] = temp;
  temp = digits[1];
 digits[1] = digits[3];
-        
-        
+digits[3] = temp;
+
+   
+       
        
        
        
