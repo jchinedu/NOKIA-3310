@@ -19,16 +19,9 @@ for (int i = 0; i < 4; i++) {
  }
 int temp = digits[0];
         digits[0] = digits[2];
-       
-       
-       
+ digits[2] = temp;
 
        
-        
-       
-
-     
-        
         
        
 
