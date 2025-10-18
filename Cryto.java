@@ -13,7 +13,14 @@ int[] digits = new int[4];
         for (int i = 3; i >= 0; i--) {
      digits[i] = number % 10;
 	   number /= 10;
-      
+        }
+
+     
+        
+        
+       
+
+
        
  
        
