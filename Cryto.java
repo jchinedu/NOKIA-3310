@@ -27,9 +27,12 @@ digits[3] = temp;
 for (int d : digits) {
 System.out.print(d);
  }
+   
+        System.out.println();
+
+ 
        
-        
-        
+     
    
        
        
