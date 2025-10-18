@@ -15,6 +15,9 @@ int[] digits = new int[4];
 	   number /= 10;
         }
 for (int i = 0; i < 4; i++) {
+     digits[i] = (digits[i] + 7) % 10;
+       
+       
        
 
      
