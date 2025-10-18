@@ -18,6 +18,7 @@ for (int i = 0; i < 4; i++) {
      digits[i] = (digits[i] + 7) % 10;
  }
 int temp = digits[0];
+        digits[0] = digits[2];
        
        
        
