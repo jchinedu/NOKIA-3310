@@ -7,6 +7,4 @@ public class Crypto {
  Scanner input = new Scanner(System.in);
 System.out.print("Enter four digits: ");
  int number = input.nextInt();
-
-
-       
+ 
