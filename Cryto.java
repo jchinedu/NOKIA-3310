@@ -14,6 +14,8 @@ int[] digits = new int[4];
      digits[i] = number % 10;
 	   number /= 10;
         }
+for (int i = 0; i < 4; i++) {
+       
 
      
         
