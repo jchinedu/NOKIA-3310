@@ -19,6 +19,6 @@ public class Index1 {
 
     public static void main(String[] args) {
         System.out.println(indexCharacter("030"));
-        System.out.println(indexCharacter("1210"));
+        
     }
 }
