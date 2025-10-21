@@ -6,6 +6,7 @@ public static void main(String[] args) {
 	System.out.println("i love you");
 	}
 	i++;
+	System.out.print(i);
 	
 	
 	}
