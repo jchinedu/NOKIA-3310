@@ -7,7 +7,7 @@ public static void main(String[] args) {
 	}
 	i++;
 	System.out.print(i);
-	
+	continue;
 	
 	}
 }
